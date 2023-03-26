@@ -1,0 +1,1 @@
+migrate -path migrations -database "postgres://localhost/restapi_test?sslmode=disable&user=max&password=1887875" up
